@@ -1,0 +1,12 @@
+h2 {
+    color: red;
+  }
+
+.wy-nav-content {
+    max-width: none !important;
+}
+
+img[src*="#thumbnail"] {
+    width:1000px;
+    height:600px;
+ }
