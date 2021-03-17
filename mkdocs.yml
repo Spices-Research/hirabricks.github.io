@@ -1,0 +1,12 @@
+site_name: Hira Bricks
+nav: 
+    - Home : index.md
+    - Introduction : Introduction.md
+    - System Modules : modules.md
+    - System Management Module: systemmanmodule.md
+
+theme: readthedocs
+    
+margin.css: [margin.css]
+
+extra_css: [extra.css]
